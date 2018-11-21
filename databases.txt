@@ -1,5 +1,99 @@
 Group Default
 
+### START TRIAL DATABASES SECTION ###
+T Austrailian Handbook (databases.txt, TRIAL)
+U http://www.berghahnbooksonline.com
+HJ https://www.berghahnbooksonline.com/
+DJ berghahnbooksonline.com
+
+T Childrens literature (databases.txt, TRIAL)
+U http://www.childrenslit.com
+HJ https://www.childrenslit.com/
+DJ childrenslit.com
+
+T Classical.com (databases.txt, TRIAL)
+U http://www.classical.com/
+HJ https://www.classical.com/
+HJ vanderbilt.classical.com
+HJ https://vanderbilt.classical.com/
+HJ vanderbilt2.classical.com
+HJ https://vanderbilt2.classical.com/
+HJ vanderbilt4.classical.com
+HJ https://vanderbilt4.classical.com/
+DJ classical.com
+
+T clinicalmolecularallergy.com (databases.txt, TRIAL)
+U http://www.clinicalmolecularallergy.com
+HJ https://www.clinicalmolecularallergy.com/
+DJ clinicalmolecularallergy.com
+
+T Columbia Gazetteer (databases.txt, TRIAL)
+U http://www.columbiagazetteer.org
+HJ https://www.columbiagazetteer.org/
+DJ columbiagazetteer.org
+
+T Current World Information Knowledgebase (databases.txt, TRIAL)
+U http://www.cwik.com
+HJ https://www.cwik.com/
+DJ cwik.com
+
+T Documenting the American South (databases.txt, TRIAL)
+U http://docsouth.unc.edu
+HJ https://docsouth.unc.edu/
+DJ docsouth.unc.edu
+
+T Gutenberg-e (databases.txt, TRIAL)
+U http://www.gutenberg-e.org
+HJ https://www.gutenberg-e.org/
+DJ gutenberg-e.org
+ 
+T J ORTHOD (databases.txt, TRIAL)
+U http://jorthod.maneyjournals.org
+HJ https://jorthod.maneyjournals.org/
+DJ jorthod.maneyjournals.org
+
+T Journal of Southern Religion (databases.txt, TRIAL)
+U http://jsr.as.wvu.edu
+HJ https://jsr.as.wvu.edu/
+DJ jsr.as.wvu.wsu
+
+T Literature Circles Resource Center (databases.txt, TRIAL)
+U http://www.litcircles.org
+HJ https://www.litcircles.org/
+DJ www.litcircles.org
+
+T Molecular Imaging (databases.txt, TRIAL)
+U http://www.journalsoft.com
+HJ https://www.journalsoft.com/
+DJ www.journalsoft.com
+
+T Patrologiae Graecae (databases.txt, TRIAL)
+U http://phoenix.reltech.org
+HJ https://phoenix.reltech.org/
+DJ reltech.org
+
+T Pro and Con (databases.txt, TRIAL)
+U http://www.pro-and-con.org
+HJ https://www.pro-and-con.org/
+DJ pro-and-con.org
+
+T Religious and Theological Abstracts (databases.txt, TRIAL)
+U http://rtabstracts.org
+HJ https://rtabstracts.org/
+DJ rtabstracts.org
+
+T Spandidos Publications (databases.txt, TRIAL)
+U http://www.spandidos-publications.com
+HJ https://www.spandidos-publications.com/
+DJ spandidos-publications.com
+
+T Telos (databases.txt, TRIAL)
+U http://www.telospress.com
+HJ https://www.telospress.com/
+DJ www.telospress.com
+### END TRIAL DATABASES SECTION ###
+
+### START ALL USERS SECTION ###
 T A.D.A.M. Interactive Anatomy (databases.txt)
 U http://www.interactiveanatomy.com
 HJ https://www.interactiveanatomy.com/
@@ -769,3 +863,4 @@ T Young Children (databases.txt)
 U http://www.naeyc.org
 HJ https://www.naeyc.org/
 DJ naeyc.org
+### END ALL USERS SECTION ###
