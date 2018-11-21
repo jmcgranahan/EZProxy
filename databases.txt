@@ -256,6 +256,11 @@ U http://d-nb.info
 HJ https://d-nb.info/
 DJ d-nb.info
 
+T -hide DOI System (databases.txt)
+U http://dx.doi.org
+HJ https://dx.doi.org
+DJ doi.org
+
 T Editrice Kurtis srl (databases.txt)
 U http://www.kurtis.it/
 HJ https://www.kurtis.it/
