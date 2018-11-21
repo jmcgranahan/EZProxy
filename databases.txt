@@ -1,3 +1,5 @@
+Group Default
+
 T A.D.A.M. Interactive Anatomy (databases.txt)
 U http://www.interactiveanatomy.com
 HJ https://www.interactiveanatomy.com/
