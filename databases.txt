@@ -1,0 +1,764 @@
+T A.D.A.M. Interactive Anatomy (databases.txt)
+U http://www.interactiveanatomy.com
+HJ https://www.interactiveanatomy.com/
+DJ interactiveanatomy.com
+
+T AAIDD (databases.txt)
+U http://aaidd.allenpress.com
+HJ https://aaidd.allenpress.com/
+DJ aaidd.allenpress.com
+
+T The Aeronautical Journal (databases.txt)
+U http://www.raes.org.uk/
+HJ https://www.raes.org.uk/
+DJ raes.org.uk
+
+T Allergy, Asthma & Clinical Immunology (databases.txt)
+U http://www.aacijournal.com
+HJ https://www.aacijournal.com/
+DJ aacijournal.com
+
+T American Academy of Hospice and Palliative Medicine (databases.txt)
+U http://www.aahpm.org/
+HJ https://www.aahpm.org/
+DJ aahpm.org
+
+T American Journal of Medicine (databases.txt)
+U http://www.amjmed.com
+HJ https://www.amjmed.com/
+DJ amjmed.com
+
+T American Journal of Preventive Medicine (databases.txt)
+U http://www.ajpm-online.net
+HJ https://www.ajpm-online.net/
+DJ ajpm-online.net
+
+T American Journal of Public Health (databases.txt)
+U http://ajph.aphapublications.org
+HJ https://ajph.aphapublications.org/
+DJ ajph.aphapublications.org
+
+T The American Journal of Surgery (databases.txt)
+U http://www.ajsfulltextonline.com
+HJ https://www.ajsfulltextonline.com/
+DJ ajsfulltextonline.com
+
+T American Women's History: A Research Guide (databases.txt)
+U http://www.mtsu.edu
+HJ https://www.mtsu.edu/
+HJ frank.mtsu.edu
+HJ https://frank.mtsu.edu/
+DJ mtsu.edu
+
+T Anaesthesia and Intensive Care (databases.txt)
+U http://www.aaic.net.au
+HJ https://www.aaic.net.au/
+DJ aaic.net.au
+
+T Annales de Physique (databases.txt)
+U http://www.annphys.org/
+HJ https://www.annphys.org/
+DJ annphys.org
+
+T AORN eSubscription (databases.txt)
+U http://www.aornesubscription.org/ 
+HJ https://www.aornesubscription.org/ 
+DJ aornesubscription.org
+
+T Armand Colin (databases.txt)
+U http://www.armand-colin.com/
+HJ https://www.armand-colin.com/
+HJ revues.armand-colin.com
+HJ https://revues.armand-colin.com/
+HJ www.revues.armand-colin.com
+HJ https://www.revues.armand-colin.com/
+DJ armand-colin.com
+
+T arXiv.org (databases.txt)
+U http://arxiv.org
+HJ https://arxiv.org/
+DJ arxiv.org
+
+T ASCD (databases.txt)
+U http://www.ascd.org
+HJ https://www.ascd.org/
+HJ shop.ascd.org
+HJ https://shop.ascd.org/
+DJ ascd.org
+
+T Audio Engineering Society (databases.txt)
+U http://www.aes.org
+HJ https://www.aes.org/
+DJ aes.org
+
+T BAS Archive (databases.txt)
+U http://www.basarchive.org
+HJ https://www.basarchive.org/
+DJ basarchive.org
+
+T Bentham Science Publishers (databases.txt)
+U http://www.benthamdirect.org
+HJ https://www.benthamdirect.org/
+DJ benthamdirect.org
+
+T Biologie Aujourd'hui (databases.txt)
+U http://www.biologie-journal.org
+HJ https://www.biologie-journal.org/
+DJ biologie-journal.org
+
+T Brill Primary Sources (databases.txt)
+U http://www.primarysourcesonline.nl
+HJ https://www.primarysourcesonline.nl/
+HJ mco.primarysourcesonline.nl
+HJ https://mco.primarysourcesonline.nl/
+DJ primarysourcesonline.nl
+
+T Brookings (databases.txt)
+U http://www.brookings.edu
+HJ https://www.brookings.edu/
+DJ brookings.edu
+
+T BTL: Bibliotheca Teubneriana Latina (databases.txt)
+U http://refworks.reference-global.com
+HJ https://refworks.reference-global.com/
+DJ refworks.reference-global.com
+
+T Bulletin de la SMF - Parutions (databases.txt)
+U http://smf4.emath.fr/
+HJ https://smf4.emath.fr/
+DJ smf4.emath.fr
+
+T Cardiosource (databases.txt)
+U http://www.cardiosource.com
+HJ https://www.cardiosource.com/
+DJ cardiosource.com
+
+T CAT.INIST (databases.txt)
+U http://cat.inist.fr/
+HJ https://cat.inist.fr/
+DJ cat.inist.fr
+
+T Cell Biology - Current Protocols (databases.txt)
+U http://www.currentprotocols.com/
+HJ https://www.currentprotocols.com/
+HJ cda.currentprotocols.com
+HJ https://cda.currentprotocols.com/
+DJ currentprotocols.com
+
+T Cell Communication and Signaling (databases.txt)
+U http://www.biosignaling.com/
+HJ https://www.biosignaling.com/
+DJ biosignaling.com
+
+T Charleston Advisor (databases.txt)
+U http://www.charlestonco.com/
+HJ https://www.charlestonco.com/
+DJ charlestonco.com
+
+T Chemical Engineering Research Information Center (databases.txt)
+U http://www.cheric.org
+HJ https://www.cheric.org/
+DJ cheric.org
+
+T Chemical prices and chemical industry trends (databases.txt)
+U http://www.icispricing.com/
+HJ https://www.icispricing.com/
+DJ icispricing.com
+
+T CHEST (databases.txt)
+U http://chestjournal.chestpubs.org
+HJ https://chestjournal.chestpubs.org/
+DJ chestjournal.chestpubs.org
+
+T Chinese Medicine (databases.txt)
+U http://www.cmjournal.org/
+HJ https://www.cmjournal.org/
+DJ cmjournal.org
+
+T Choice Reviews Online (databases.txt)
+U http://www.choicereviews.org
+HJ https://www.choicereviews.org/
+HJ choicereviews.org
+HJ https://choicereviews.org/
+HJ cro2.org
+HJ https://cro2.org/
+HJ cro3.org
+HJ https://cro3.org/
+HJ www.cro2.org
+HJ https://www.cro2.org/
+HJ www.cro3.org
+HJ https://www.cro3.org/
+DJ choicereviews.org
+DJ cro2.org
+DJ cro3.org
+
+T Classics Ireland (databases.txt)
+U http://www.classicsirland.com
+HJ https://www.classicsirland.com/
+DJ classicsirland.com
+
+T Climate Action Network Europe (databases.txt)
+U http://www.climnet.org/
+HJ https://www.climnet.org/
+DJ climnet.org
+
+T The Cochrane Library (databases.txt)
+U http://www.cochranelibrary.com
+HJ https://www.cochranelibrary.com/
+HJ thecochranelibrary.com
+HJ https://thecochranelibrary.com/
+DJ cochranelibrary.com
+DJ thecochranelibrary.com
+
+T College & Research Libraries (databases.txt)
+U http://www.acrl.org
+HJ https://www.acrl.org/
+HJ crl.acrl.org
+HJ https://crl.acrl.org/
+HJ crln.acrl.org
+HJ https://crln.acrl.org/
+HJ rbm.acrl.org
+HJ https://rbm.acrl.org/
+DJ acrl.org
+
+T CQ Weekly (databases.txt)
+U http://library.cqpress.com/
+HJ https://library.cqpress.com/
+HJ library2.cqpress.com
+HJ https://library2.cqpress.com/
+DJ cqpress.com
+
+T Database of Research (databases.txt)
+U http://www.idp.com/
+HJ https://www.idp.com/
+DJ idp.com
+
+T Denver Health (databases.txt)
+U http://www.denverhealth.org
+HJ https://www.denverhealth.org/
+HJ www.dhha.org
+HJ https://www.dhha.org/
+DJ denverhealth.org
+DJ dhha.org
+
+T Dictionary of American Family Names (databases.txt)
+U http://www.oxford-americanfamilynames.com
+HJ https://www.oxford-americanfamilynames.com/
+DJ oxford-americanfamilynames.com
+
+T DMM: Disease Models & Mechanisms (databases.txt)
+U http://dmm.biologists.org
+HJ https://dmm.biologists.org/
+DJ dmm.biologists.org
+
+T DNB, Katalog der Deutschen Nationalbibliothek (databases.txt)
+U http://d-nb.info
+HJ https://d-nb.info/
+DJ d-nb.info
+
+T Editrice Kurtis srl (databases.txt)
+U http://www.kurtis.it/
+HJ https://www.kurtis.it/
+DJ kurtis.it
+
+T Encyclopedia of African American History, 1619-1895 (databases.txt)
+U http://www.oxford-africanamericanhistory1.com
+HJ https://www.oxford-africanamericanhistory1.com/
+DJ oxford-africanamericanhistory1.com
+
+T Encyclopedia of Social Work (databases.txt)
+U http://www.oxford-naswsocialwork.com
+HJ https://www.oxford-naswsocialwork.com/
+DJ oxford-naswsocialwork.com
+
+T Environmental Health (databases.txt)
+U http://www.ehjournal.net/
+HJ https://www.ehjournal.net/
+DJ ehjournal.net
+
+T Ethnology (databases.txt)
+U http://ethnology.pitt.edu
+HJ https://ethnology.pitt.edu/
+DJ ethnology.pitt.edu
+
+T Faculty of 1000 Biology (databases.txt)
+U http://www.f1000biology.com
+HJ https://www.f1000biology.com/
+DJ f1000biology.com
+
+T Fibrogenesis & Tissue Repair (databases.txt)
+U http://www.fibrogenesis.com/
+HJ https://www.fibrogenesis.com/
+DJ fibrogenesis.com
+
+T Fulltext Sources Online (databases.txt)
+U http://www.fso-online.com
+HJ https://www.fso-online.com/
+DJ fso-online.com
+
+T The Grove Encyclopedia of Materials and Techniques in Art (databases.txt)
+U http://www.oxford-materialstechniques.com/
+HJ https://www.oxford-materialstechniques.com/
+DJ oxford-materialstechniques.com
+
+T GTC (databases.txt)
+U http://www.genestocellsonline.org/
+HJ https://www.genestocellsonline.org/
+DJ genestocellsonline.org
+
+T Harcourthealth (databases.txt)
+U http://www.harcourthealth.com
+HJ https://www.harcourthealth.com/
+DJ harcourthealth.com
+
+T Head and Neck (databases.txt)
+U http://www.headandneckoncology.org
+HJ https://www.headandneckoncology.org
+DJ headandneckoncology.org
+
+T IBFD Global Tax Explorer Plus (databases.txt)
+U http://www.ibfd.org
+HJ https://www.ibfd.org/
+HJ online.ibfd.org
+HJ https://online.ibfd.org/
+DJ ibfd.org
+
+T IGI Global (databases.txt)
+U http://www.igi-global.com
+HJ https://www.igi-global.com/
+DJ igi-global.com
+
+T IHP-Journals only (databases.txt)
+U http://libnet.ac.il/
+HJ https://libnet.ac.il/
+HJ aleph3.libnet.ac.il
+HJ https://aleph3.libnet.ac.il/
+DJ libnet.ac.il 
+
+T Immunome Research (databases.txt)
+U http://www.immunome-research.com
+HJ https://www.immunome-research.com/
+DJ immunome-research.com
+
+T Indian Journal of Dermatology, Venereology and Leprology (databases.txt)
+U http://www.ijdvl.com
+HJ https://www.ijdvl.com/
+DJ ijdvl.com
+
+T Infobase Publishing (databases.txt)
+U http://ebooks.infobasepublishing.com/
+HJ https://ebooks.infobasepublishing.com/
+DJ ebooks.infobasepublishing.com
+
+T Infotrieve Online (databases.txt)
+U http://www4.infotrieve.com
+HJ https://www4.infotrieve.com/
+DJ www4.infotrieve.com
+
+T International Encyclopedia of Communication (databases.txt)
+U http://www.communicationencyclopedia.com
+HJ https://www.communicationencyclopedia.com/
+DJ communicationencyclopedia.com
+
+T The International Encyclopedia of Dance (databases.txt)
+U http://www.oxford-dance.com
+HJ https://www.oxford-dance.com/
+DJ oxford-dance.com
+
+T International Organizations Online (databases.txt)
+U http://www.uia.be/
+HJ https://www.uia.be/
+HJ www.diversitas.org
+HJ https://www.diversitas.org/
+DJ diversitas.org
+DJ uia.be
+
+T ISU Public Homepage Server (databases.txt)
+U http://www.public.iastate.edu
+HJ https://www.public.iastate.edu/
+DJ public.iastate.edu
+
+T JAMAevidence (databases.txt)
+U http://www.jamaevidence.com/
+HJ https://www.jamaevidence.com/
+DJ jamaevidence.com
+
+T Journal of Clinical Ethics (databases.txt)
+U http://www.clinicalethics.com/
+HJ https://www.clinicalethics.com/
+DJ clinicalethics.com
+
+T Journal of Endocrinological Investigation (databases.txt)
+U http://www.jendocrinolinvest.it
+HJ https://www.jendocrinolinvest.it/
+DJ jendocrinolinvest.it
+
+T The Journal of Fixed Income (databases.txt)
+U http://www.iijournals.com
+HJ https://www.iijournals.com/
+DJ iijournals.com
+
+T Journal of Pastoral Care & Counseling (databases.txt)
+U http://journals.sfu.ca
+HJ https://journals.sfu.ca/
+DJ journals.sfu.ca
+
+T Journal of the American College of Surgeons (databases.txt)
+U http://www.journalacs.org
+HJ https://www.journalacs.org/
+DJ journalacs.org
+
+T Journal of the American Dietetic Association (databases.txt)
+U http://www.adajournal.org
+HJ https://www.adajournal.org/
+DJ adajournal.org
+
+T Journal of Visual Impairment and Blindness (databases.txt)
+U http://www.afb.org
+HJ https://www.afb.org/
+DJ afb.org
+
+T Kluwer Law International (databases.txt)
+U http://www.kluwerlaw.com
+HJ https://www.kluwerlaw.com/
+DJ kluwerlaw.com
+
+T Labor and Employment Relations Association (databases.txt)
+U http://www.lera.uiuc.edu
+HJ http://www.lera.uiuc.edu/
+DJ lera.uiuc.edu
+
+T The Lancet (databases.txt)
+U http://www.thelancet.com/
+HJ https://www.thelancet.com/
+DJ thelancet.com
+
+T Libaries on the Web (databases.txt)
+U http://lists.webjunction.org
+HJ https://lists.webjunction.org/
+DJ lists.webjunction.org
+
+T LLUMC General Surgery Residency (databases.txt)
+U http://www.llusurgery.org
+HJ https://www.llusurgery.org/
+DJ llusurgery.org
+
+T LOCKSS@Vanderbilt (databases.txt)
+U http://lockss.library.vanderbilt.edu:8083
+DJ lockss.library.vanderbilt.edu
+
+T Martindale's "The Reference Desk" (databases.txt)
+U http://www.martindalecenter.com
+HJ https://www.martindalecenter.com/
+DJ martindalecenter.com
+
+T Medical Clinics of North America (databases.txt)
+U http://www.medical.theclinics.com
+HJ https://www.medical.theclinics.com/
+DJ medical.theclinics.com
+
+T Mercury Magazine (databases.txt)
+U http://www.astrosociety.org/
+HJ https://www.astrosociety.org/
+DJ astrosociety.org
+
+T MLA Literary Research Guide (databases.txt)
+U http://www.mlalrg.org
+HJ https://www.mlalrg.org/
+DJ mlalrg.org
+
+T Molecular Interventions (databases.txt)
+U http://molinterv.aspetjournals.org/
+HJ https://molinterv.aspetjournals.org/
+DJ molinterv.aspetjournals.org
+
+T Molecular Neurodegeneration (databases.txt)
+U http://www.molecularneurodegeneration.com
+HJ https://www.molecularneurodegeneration.com/
+DJ molecularneurodegeneration.com
+
+T Monthly Review (databases.txt)
+U http://www.monthlyreview.org/
+HJ https://www.monthlyreview.org/
+DJ monthlyreview.org
+
+T National Research Council Canada (databases.txt)
+U http://article.pubs.nrc-cnrc.gc.ca
+HJ https://article.pubs.nrc-cnrc.gc.ca/
+DJ article.pubs.nrc-cnrc.gc.ca
+
+T NEJM-endo (databases.txt)
+U http://www.endo.gr
+HJ https://www.endo.gr/
+DJ endo.gr
+
+T NEJM-highwire (databases.txt)
+U http://nejm.highwire.org
+HJ https://nejm.highwire.org/
+DJ nejm.highwire.org
+
+T Neurology (databases.txt)
+U http://www.neurology.org
+HJ https://www.neurology.org/
+DJ neurology.org
+
+T New Scientist (databases.txt)
+U http://www.newscientist.com
+HJ https://www.newscientist.com/
+DJ newscientist.com
+
+T The New York Academy of Medicine (databases.txt)
+U http://www.nyam.org
+HJ https://www.nyam.org/
+DJ nyam.org
+
+T The New York Academy of Sciences (databases.txt)
+U http://www.nyas.org
+HJ https://www.nyas.org/
+HJ www.annalsnyas.org
+HJ https://www.annalsnyas.org/
+DJ annalsnyas.org
+DJ nyas.org
+
+T Obstetrician and Gynaecologist (databases.txt)
+U http://onlinetog.org
+HJ https://onlinetog.org
+DJ onlinetog.org
+
+T OECD iLibrary (databases.txt)
+U http://www.oecd-ilibrary.org
+HJ https://www.oecd-ilibrary.org/
+HJ www.oecdilibrary.org
+HJ https://www.oecdilibrary.org/
+DJ oecd-ilibrary.org
+DJ oecdilibrary.org
+
+T OhioLINK (databases.txt)
+U http://www.ohiolink.edu
+HJ https://www.ohiolink.edu/
+HJ auth.ohiolink.edu
+HJ https://auth.ohiolink.edu/
+HJ rave.ohiolink.edu
+HJ https://rave.ohiolink.edu/
+DJ ohiolink.edu
+
+T Oxford Art Online (databases.txt)
+U http://www.oxfordartonline.com/
+HJ https://www.oxfordartonline.com/
+DJ oxfordartonline.com
+
+T The Oxford Companion to Architecture (databases.txt)
+U http://www.oxford-architecturecompanion.com
+HJ https://www.oxford-architecturecompanion.com/
+DJ oxford-architecturecompanion.com
+
+T The Oxford Encyclopedia of Ancient Greece and Rome (databases.txt)
+U http://www.oxford-greecerome.com
+HJ https://www.oxford-greecerome.com/
+DJ oxford-greecerome.com
+
+T The Oxford Encyclopedia of Economic History (databases.txt)
+U http://www.oxford-economichistory.com
+HJ https://www.oxford-economichistory.com/
+DJ oxford-economichistory.com
+
+T The Oxford Encyclopedia of Women in World History (databases.txt)
+U http://www.oxford-womenworldhistory.com
+HJ https://www.oxford-womenworldhistory.com/
+DJ oxford-womenworldhistory.com
+
+T Oxford Handbooks Online (databases.txt)
+U http://www.oxfordhandbooks.com
+HJ https://www.oxfordhandbooks.com/
+HJ oxfordhandbooks.com:4242
+DJ oxfordhandbooks.com
+
+T Papers of Surrealism (databases.txt)
+U http://www.surrealismcentre.ac.uk/
+HJ https://www.surrealismcentre.ac.uk/
+DJ surrealismcentre.ac.uk
+
+T Past Masters (databases.txt)
+U http://www.nlx.com
+HJ https://www.nlx.com/
+HJ library.nlx.com
+HJ https://library.nlx.com/
+HJ pm.nlx.com
+HJ https://pm.nlx.com/
+HJ www.library.nlx.com
+HJ https://www.library.nlx.com/
+DJ nlx.com
+
+T Pediatric SuperSite (databases.txt)
+U http://www.pediatricsupersite.com/
+HJ https://www.pediatricsupersite.com/
+HJ www.slackinc.com
+HJ https://www.slackinc.com/
+DJ pediatricsupersite.com
+DJ slackinc.com
+
+T Philosophy Documentation Center (databases.txt)
+U http://www.pdcnet.org
+HJ https://www.pdcnet.org/
+HJ secure.pdcnet.org
+HJ https://secure.pdcnet.org/
+HJ www.secure.pdcnet.org
+HJ https://www.secure.pdcnet.org/
+DJ pdcnet.org
+
+T Physical Therapy (databases.txt)
+U http://www.ptjournal.org
+HJ https://www.ptjournal.org/
+DJ ptjournal.org
+
+T Pippo (databases.txt)
+U http://pippo.jbjs.org.uk
+HJ https://pippo.jbjs.org.uk/
+DJ pippo.jbjs.org.uk
+
+T PLoS Computational Biology (databases.txt)
+U http://www.ploscompbiol.org/
+HJ https://www.ploscompbiol.org/
+DJ ploscompbiol.org
+
+T PolicyArchive (databases.txt)
+U http://www.policyarchive.org
+HJ https://www.policyarchive.org/
+DJ policyarchive.org
+
+T Public Libraries (databases.txt)
+U http://www.publiclibraries.com/
+HJ https://www.publiclibraries.com/
+DJ publiclibraries.com
+
+T Publications, Center for Business and Economic Research (databases.txt)
+U http://cber.cba.ua.edu/
+HJ https://cber.cba.ua.edu/
+DJ cber.cba.ua.edu
+
+T Puerto Rico Health Sciences Journal (databases.txt)
+U http://prhsj.rcm.upr.edu
+HJ https://prhsj.rcm.upr.edu/
+DJ prhsj.rcm.upr.edu
+
+T Pulsus Group Inc, Medical Peer Review Publisher, Canadian Medical Journals (databases.txt)
+U http://www.pulsus.com/
+HJ https://www.pulsus.com/
+DJ pulsus.com
+
+T QUEST (databases.txt)
+U http://hk.humankinetics.com
+HJ https://hk.humankinetics.com/
+DJ hk.humankinetics.com
+
+T Reaxys (databases.txt)
+U http://www.reaxys.com
+HJ https://www.reaxys.com/
+DJ reaxys.com
+
+T Religious Studies News (databases.txt)
+U http://www.rsnonline.org
+HJ https://www.rsnonline.org/
+DJ rsnonline.org
+
+T Respiratory Research (databases.txt)
+U http://respiratory-research.com
+HJ https://respiratory-research.com/
+DJ respiratory-research.com
+
+T Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine (databases.txt)
+U http://www.sjtrem.com
+HJ https://www.sjtrem.com/
+DJ sjtrem.com
+
+T sciamarchive (databases.txt)
+U http://www.sciamarchive.org/
+HJ https://www.sciamarchive.org/
+DJ sciamarchive.org
+
+T Science TranslationL Medicine (databases.txt)
+U http://stm.sciencemag.org
+HJ https://stm.sciencemag.org/
+DJ stm.sciencemag.org
+
+T Scientific American (databases.txt)
+U http://www.scientificamerican.com
+HJ https://www.scientificamerican.com/
+DJ scientificamerican.com
+
+T The Scientist (databases.txt)
+U http://www.the-scientist.com
+HJ https://www.the-scientist.com/
+HJ www.the-scientist.library.upenn.edu
+HJ https://www.the-scientist.library.upenn.edu/
+DJ upenn.edu
+DJ the-scientist.com
+
+T The Society for Ethnomusicology (databases.txt)
+U http://webdb.iu.edu
+HJ https://webdb.iu.edu/
+DJ webdb.iu.edu
+
+T softlineweb (databases.txt)
+U http://enw.softlineweb.com
+HJ https://enw.softlineweb.com/
+DJ enw.softlineweb.com
+
+T Sports Medicine, Arthroscopy, Rehabilitation, Therapy & Technology (databases.txt)
+U http://www.smarttjournal.com
+HJ https://www.smarttjournal.com/
+DJ smarttjournal.com
+
+T SpringerImages (databases.txt)
+U http://www.springerimages.com
+HJ https://www.springerimages.com/
+DJ springerimages.com
+
+T Surgery (databases.txt)
+U http://www.surgjournal.com
+HJ https://www.surgjournal.com/
+DJ surgjournal.com
+
+T Surgical Clinics of North America (databases.txt)
+U http://www.surgical.theclinics.com
+HJ https://www.surgical.theclinics.com/
+DJ surgical.theclinics.com
+
+T Thieme ElectronicBook Library (databases.txt)
+U http://www.thieme.com/
+HJ https://www.thieme.com/
+HJ ebooks.thieme.com
+HJ https://ebooks.thieme.com/
+HJ ebooklibrary.thieme.com
+HJ https://ebooklibrary.thieme.com/
+DJ thieme.com
+
+T VLT/Flames observations (databases.txt)
+U http://ads.nao.ac.jp/
+HJ https://ads.nao.ac.jp/
+DJ ads.nao.ac.jp
+
+T Wanfang Data (databases.txt)
+U http://d.wanfangdata.com.cn
+HJ https://d.wanfangdata.com.cn/
+DJ d.wanfangdata.com.cn
+
+T Water Environment Federation (databases.txt)
+U http://www.wef.org
+HJ https://www.wef.org/
+DJ wef.org
+
+T World Bank International Migration, Remittances, and the Brain Drain (databases.txt)
+U http://www.worldbank.icebox.ingenta.com/
+HJ https://www.worldbank.icebox.ingenta.com/
+DJ worldbank.icebox.ingenta.com
+
+T World News Digest (databases.txt)
+U http://www.2facts.com
+HJ https://www.2facts.com/
+DJ 2facts.com
+
+T Young Children (databases.txt)
+U http://www.naeyc.org
+HJ https://www.naeyc.org/
+DJ naeyc.org
