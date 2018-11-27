@@ -46,7 +46,7 @@ T Gutenberg-e (databases.txt, TRIAL)
 U http://www.gutenberg-e.org
 HJ https://www.gutenberg-e.org/
 DJ gutenberg-e.org
- 
+
 T J ORTHOD (databases.txt, TRIAL)
 U http://jorthod.maneyjournals.org
 HJ https://jorthod.maneyjournals.org/
@@ -473,6 +473,14 @@ HJ www.diversitas.org
 HJ https://www.diversitas.org/
 DJ diversitas.org
 DJ uia.be
+
+##INFORM 69379
+T IssueLab (databases.txt)
+U http://www.issuelab.org/
+HJ https://www.issuelab.org/
+HJ admin.issuelab.org
+HJ https://admin.issuelab.org/
+DJ issuelab.org
 
 T ISU Public Homepage Server (databases.txt)
 U http://www.public.iastate.edu
