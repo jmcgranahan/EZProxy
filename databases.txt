@@ -833,6 +833,33 @@ U http://www.surgical.theclinics.com
 HJ https://www.surgical.theclinics.com/
 DJ surgical.theclinics.com
 
+## Per EZProxy Listserv discussion, 11/27/2018, jm
+HTTPHeader authtoken
+AnonymousURL +https://api.taylorandfrancis.com/*
+AnonymousURL +https://api.taylorfrancis.com/* 
+AnonymousURL +https://events.taylorandfrancis.com/*
+Title Taylor Francis eBooks (databases.txt)
+URL http://www.taylorfrancis.com
+HJ https://www.taylorfrancis.com/
+HJ accounts.taylorfrancis.com
+HJ https://accounts.taylorfrancis.com
+HJ api.taylorandfrancis.com
+HJ https://api.taylorandfrancis.com
+HJ api.taylorfrancis.com
+HJ https://api.taylorfrancis.com
+HJ events.taylorandfrancis.com
+HJ https://events.taylorandfrancis.com
+HJ taylorfrancis.com
+HJ https://taylorfrancis.com
+DJ taylorandfrancis.com
+DJ taylorfrancis.com
+Find http-equiv="Content-Security-Policy" 
+Replace http-equiv="X-Content-Security-Policy" 
+NeverProxy *.google-analytics.com
+NeverProxy *.google.com
+NeverProxy *.googletagmanager.com
+AnonymousURL -*
+
 T Thieme ElectronicBook Library (databases.txt)
 U http://www.thieme.com/
 HJ https://www.thieme.com/
